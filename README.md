@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Atulkumar0804/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atulkumar0804/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atulkumar0804/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Atulkumar0804/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atulkumar0804/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Atulkumar0804/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
