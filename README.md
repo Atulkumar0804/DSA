@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atulkumar0804/DSA/tree/master/0001-two-sum) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Atulkumar0804/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Atulkumar0804/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+## Math
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Atulkumar0804/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
