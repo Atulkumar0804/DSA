@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atulkumar0804/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atulkumar0804/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Atulkumar0804/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Atulkumar0804/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Atulkumar0804/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Atulkumar0804/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Atulkumar0804/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Atulkumar0804/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Atulkumar0804/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Atulkumar0804/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Atulkumar0804/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Atulkumar0804/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Greedy
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Atulkumar0804/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
