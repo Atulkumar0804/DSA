@@ -24,7 +24,7 @@ public:
                     left++;
                     right--;
                 }
-                else if(sum<=target)
+                else if(sum<target)
                     left++;
                 else
                     right--;
